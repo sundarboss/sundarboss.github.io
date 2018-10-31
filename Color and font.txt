@@ -1,0 +1,9 @@
+font:
+<link href="https://fonts.googleapis.com/css?family=Krub" rel="stylesheet">
+
+css:
+font-family: 'Krub', sans-serif;
+
+color:
+#F1BAE5
+
